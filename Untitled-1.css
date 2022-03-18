@@ -1,0 +1,21 @@
+.no {
+  background-color: rgb(211, 171, 211);
+  width: 900px;
+  padding: 0 50px;
+  position: fixed;
+  left: 70px;
+  top: 130px;
+}
+body {
+  background-color: rgb(129, 88, 129);
+}
+.sp {
+  position: fixed;
+  left: 1030px;
+  top: 130px;
+}
+.ss {
+  position: fixed;
+  left: 150px;
+  top: 100px;
+}
